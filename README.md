@@ -6,4 +6,4 @@ Para la versión 4, solo funciona la protección de las instantáneas del sistem
 ##############################################################################
 Valid for versions 1.2 and 3 Locky ,
 For version 4 only works: Protection previous versions.
-22/05/2016 Dolbuck Lab  *POC ANSEC.ORG 2016*
+22/05/2016 Dolbuck Lab  *POC ANDSEC.ORG 2016*
