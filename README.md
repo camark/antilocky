@@ -13,4 +13,7 @@ Visítenos en [Dolbuck Lab](https://lab.dolbuck.net).
 1. Execute in Administrator mode.
 2. Valid for versions 1.2 and 3 Locky.
 3. For version 4 only works: Protection previous versions (vssadmin.exe).
+
+----
+
 ######22/05/2016 [Dolbuck Lab](https://lab.dolbuck.net)  *POC ANDSEC.ORG 2016*
