@@ -1,6 +1,8 @@
-# Anti-Locky PoC
+# Dolbuck Lab - Anti-Locky PoC
 ##Prueba de Concepto de prevención de Locky
-Ejecutable y código fuente con licencia GNU Public License.
+
+Ejecutable y código fuente con licencia **GNU Public License**. Esta prueba de concepto ha sido desarrollada con el fin de poder ayudar a los usuarios con el ransoware locky. 
+
 Visítenos en [Dolbuck Lab](https://lab.dolbuck.net).
 # IMPORTANTE
 1. Ejecutar en modo Administrador.
