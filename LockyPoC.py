@@ -13,7 +13,7 @@ class Window(QtGui.QMainWindow):
         super(Window, self).__init__()
         self.setGeometry(50, 50, 750, 435)
         self.setWindowTitle("Dolbuck Lab: Locky PoC Tool")
-        self.setWindowIcon(QtGui.QIcon('logo.png'))
+        self.setWindowIcon(QtGui.QIcon("./dbkAntiLockyTEMP/logo.png"))
         self.paleta = QtGui.QPalette()
         self.paleta.setColor(QtGui.QPalette.Background,
                                 QtGui.QColor(255, 191, 0))
@@ -154,7 +154,7 @@ class Window(QtGui.QMainWindow):
         self.lbl4.setFont(QtGui.QFont('SansSerif', 14))
         #Label para mostrar FOTO LAB
         self.lbl5 = QtGui.QLabel(self)
-        self.imagen = QtGui.QImage("logo.png")
+        self.imagen = QtGui.QImage("./dbkAntiLockyTEMP/logo.png")
         self.lbl5.setGeometry(600, 250, 150, 150)
         self.pxmp = QtGui.QPixmap.fromImage(self.imagen)
         self.pxmp.scaled(100, 84, QtCore.Qt.KeepAspectRatio)
