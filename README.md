@@ -1,9 +1,14 @@
 # antilocky
-Vaccine virus Locky
-Ejecutable
-Válido para las versiones 1,2 y 3 de Locky, 
-Para la versión 4, solo funciona la protección de las instantáneas del sistema.
+##Prueba de Concepto de prevención de Locky
+Ejecutable y código fuente
+Visítenos en [Dolbuck Lab](https://lab.dolbuck.net)
+# IMPORTANTE
+1. Ejecutar en modo Administrador
+2. Válido para las versiones 1,2 y 3 de Locky, 
+3. Para la versión 4, solo funciona la protección de las instantáneas del sistema.
 ##############################################################################
-Valid for versions 1.2 and 3 Locky ,
-For version 4 only works: Protection previous versions.
-22/05/2016 Dolbuck Lab  *POC ANDSEC.ORG 2016*
+# IMPORTANT
+1. Execute in administrator mode
+2. Valid for versions 1.2 and 3 Locky ,
+3. For version 4 only works: Protection previous versions (vssadmin.exe).
+######22/05/2016 [Dolbuck Lab](https://lab.dolbuck.net)  *POC ANDSEC.ORG 2016*
