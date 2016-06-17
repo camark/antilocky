@@ -18,4 +18,4 @@ Visítenos en [Dolbuck Lab](https://lab.dolbuck.net).
 
 ----
 
-######22/05/2016 [Dolbuck Lab](https://lab.dolbuck.net)  *POC ANDSEC.ORG 2016*
+######22/05/2016 [Dolbuck Lab](https://lab.dolbuck.net)
